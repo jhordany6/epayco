@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8' standalone='yes' ?>
+<hierarchy index="0" class="hierarchy" rotation="0" width="1440" height="2900">
+  <android.widget.FrameLayout index="0" package="co.epayco.epaycoapp" class="android.widget.FrameLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][1440,2900]" displayed="true">
+    <android.widget.LinearLayout index="0" package="co.epayco.epaycoapp" class="android.widget.LinearLayout" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,0][1440,2900]" displayed="true">
+      <android.widget.FrameLayout index="0" package="co.epayco.epaycoapp" class="android.widget.FrameLayout" text="" resource-id="android:id/content" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,136][1440,2900]" displayed="true">
+        <androidx.compose.ui.platform.ComposeView index="0" package="co.epayco.epaycoapp" class="androidx.compose.ui.platform.ComposeView" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,136][1440,2900]" displayed="true">
+          <android.view.View index="0" package="co.epayco.epaycoapp" class="android.view.View" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,136][1440,2900]" displayed="true">
+            <android.view.View index="0" package="co.epayco.epaycoapp" class="android.view.View" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,136][1440,2900]" displayed="true">
+              <android.widget.ProgressBar index="0" package="co.epayco.epaycoapp" class="android.widget.ProgressBar" text="" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[650,1516][790,1656]" displayed="true" />
+            </android.view.View>
+          </android.view.View>
+        </androidx.compose.ui.platform.ComposeView>
+      </android.widget.FrameLayout>
+    </android.widget.LinearLayout>
+    <android.view.View index="2" package="co.epayco.epaycoapp" class="android.view.View" text="" resource-id="android:id/navigationBarBackground" checkable="false" checked="false" clickable="false" enabled="true" focusable="false" focused="false" long-clickable="false" password="false" scrollable="false" selected="false" bounds="[0,3036][1440,3120]" displayed="true" />
+  </android.widget.FrameLayout>
+</hierarchy>
